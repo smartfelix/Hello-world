@@ -5,7 +5,7 @@ I love coding and data science.
 
 ## Problem to address
 
-## methods used
+## Methods used
 
 ## Result
 
